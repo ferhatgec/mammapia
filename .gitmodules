@@ -1,0 +1,3 @@
+[submodule "libs/piacli"]
+	path = libs/piacli
+	url = https://github.com/ferhatgec/piacli.git

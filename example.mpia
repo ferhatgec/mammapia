@@ -1,0 +1,4 @@
+load(guitar.wav)
+time(0.3) # default
+
+c5 c4 c6 c2 c4 b4 b4 b4 b4 b5 b5
